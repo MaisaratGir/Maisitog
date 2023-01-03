@@ -52,5 +52,4 @@ git checkout master
 git pull origin master
 
 # Делаем merge вашей ветки, в ветку в которой вы находитесь
-# В данном примере это master
-git merge <название_ветки>
+
